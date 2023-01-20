@@ -17,19 +17,19 @@ https://www.youtube.com/@LiveOverflow (GOD of hacking stuff)
 hackerSploit
 https://www.youtube.com/@HackerSploit (he is God too and very kind and Helpful, a good friend, all in One) //very thankful to him
 
-##Bug Bounty YOUTUBERS
+###Bug Bounty YOUTUBERS
 
-Nahamsec
-stok
-insiderPhd
-hackersimplify
-hackersera
-BePrectical
-Eshan Singh
-hackerone
-bugcrowd
-intigrity
-PhdSecurity
+Nahamsec,
+stok,
+insiderPhd,
+hackersimplify,
+hackersera,
+BePrectical,
+Eshan Singh,
+hackerone,
+bugcrowd,
+intigrity,
+PhdSecurity,
 
 LABS TO TEST YOUR SKILLS
 -------------------------
