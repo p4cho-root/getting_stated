@@ -48,6 +48,10 @@ WHERE TO HUNT
 3) when you earn some using docks
 4) go to BugCrowd then Intigriti then hackerone
 
+BOOKS To Follow
+---------------
+1) The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition (IS MUST POPULAR AND THEY CALLED IT BIBLE in our Worlds, but i feel bored to read)
+2) comming soon........
 ________________________
 Watch Linux Fundamentals
 ------------------------
@@ -60,3 +64,5 @@ Courses:-
 
 https://youtu.be/ROjZy1WbCIA
 https://youtu.be/ZtqBQ68cfJc
+
+comming sooon......
