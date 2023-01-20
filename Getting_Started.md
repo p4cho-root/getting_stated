@@ -34,8 +34,11 @@ PhdSecurity
 LABS TO TEST YOUR SKILLS
 -------------------------
 https://overthewire.org/ (FREE) (Follow to clear linux fundamental)
+
 https://portswigger.net/web-security/learning-path (FREE) (MUST FOLLOW) (All real Worls LIVE Example)
+
 https://tryhackme.com/ (paid) (clear your doubt, easy to use, low cost) (10usd/months)
+
 https://www.hackthebox.com/ (paid) (Advanced Real Worlds Labs for Experts)
 
 WHERE TO HUNT
