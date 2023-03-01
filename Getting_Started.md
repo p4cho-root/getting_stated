@@ -7,25 +7,25 @@ youtube to follow and watch videos seriously
 
 ## WHAT IS HACKING
 
+hackerSploit
+https://www.youtube.com/@HackerSploit (Everythings u need)
+
 LiveOverFlow
 https://www.youtube.com/@LiveOverflow (CTF, bugbounty, all types of hacking content)
 
-hackerSploit
-https://www.youtube.com/@HackerSploit 
-
 ### Bug Bounty YOUTUBERS
 
-Nahamsec,
-stok,
-insiderPhd,
-hackersimplify,
-hackersera,
-BePrectical,
-Eshan Singh,
-hackerone,
-bugcrowd,
-intigrity,
-PhdSecurity,
+Nahamsec,  
+stok,  
+insiderPhd,  
+hackersimplify,  
+hackersera,  
+BePrectical,  
+Eshan Singh,  
+hackerone,  
+bugcrowd,  
+intigrity,  
+PhdSecurity,  
 
 LABS TO TEST YOUR SKILLS
 -------------------------
