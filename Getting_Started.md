@@ -1,6 +1,6 @@
-###GETTING STARTED###
+### GETTING STARTED###
 
-#OS to use : kali linux / Ubuntu
+# OS to use : kali linux / Ubuntu
 
 youtube to follow and watch videos seriously
 --------------------------------------------
@@ -9,7 +9,7 @@ youtube to follow and watch videos seriously
 MUST FOLLOW
 ^^^^^^^^^^^^
 
-##WHAT IS HACKING
+## WHAT IS HACKING
 
 LiveOverFlow
 https://www.youtube.com/@LiveOverflow (CTF, bugbounty, all types of hacking content)
@@ -17,7 +17,7 @@ https://www.youtube.com/@LiveOverflow (CTF, bugbounty, all types of hacking cont
 hackerSploit
 https://www.youtube.com/@HackerSploit 
 
-###Bug Bounty YOUTUBERS
+### Bug Bounty YOUTUBERS
 
 Nahamsec,
 stok,
