@@ -5,10 +5,6 @@
 youtube to follow and watch videos seriously
 --------------------------------------------
 
-^^^^^^^^^^^^
-MUST FOLLOW
-^^^^^^^^^^^^
-
 ## WHAT IS HACKING
 
 LiveOverFlow
