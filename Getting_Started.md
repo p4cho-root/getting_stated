@@ -1,6 +1,6 @@
-### GETTING STARTED
+# GETTING STARTED
 
-# OS to use : kali linux / Ubuntu
+#### OS to use : kali linux / Ubuntu
 
 youtube to follow and watch videos seriously
 --------------------------------------------
